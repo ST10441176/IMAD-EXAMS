@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exams.IMAD</string>
+    <string name="screen_smart">SCREENSMART</string>
+    <string name="main_screen">MAIN SCREEN</string>
+    <string name="exit">EXIT</string>
+    <string name="student_name_sandile_april">Student Name: Sandile April</string>
+    <string name="student_number_st10441176">Student Number: ST10441176</string>
+    <string name="enter_morning_screen_time">Enter Morning Screen Time</string>
+    <string name="enter_afternoon_screen_time">Enter Afternoon Screen Time</string>
+    <string name="enter_evening_screen_time">Enter Evening Screen Time</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="detailed_view">Detailed View</string>
+    <string name="total_daily_screen_time">Total Daily Screen</string>
+    <string name="average_screen_time">Average Screen Time</string>
+    <string name="block_screen_time">Block Screen Time</string>
+</resources>

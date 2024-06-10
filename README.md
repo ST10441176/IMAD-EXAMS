@@ -1,3 +1,6 @@
+Screensmart is an app which enables the user to help them with managing time.
+
+
 package com.example.imadexams
 
 import android.content.Intent

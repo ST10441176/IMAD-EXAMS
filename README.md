@@ -1,4 +1,40 @@
-Screensmart is an app which enables the user to help them with managing time.
+README
+
+SCREEN SMART
+
+•	Screen Smart is an app that helps the user manage time on a weekly basis.
+•	Whether it is working at home, studying for an exam or trying to manage your personal time, Screen Smart is the app for you.
+•	
+
+
+SPLASH SCREEN
+
+To access the app, press the main screen button and it will take you to the main screen where the app is operational.
+
+
+MAIN SCREEN
+The feature consists of three screen times where you want to start the day. 
+
+•	Morning Screen
+•	Afternoon Screen
+•	Evening Screen
+
+Type you want beginning with your schedules, for:
+
+•	Morning Screen Time
+
+•	Afternoon Screen Time
+
+•	Evening Screen Time
+
+
+
+DETAILED VIEW SCREEN
+
+And there it is, the results are shown. You can press the Block Screen Time button to return or just analyze the results if maybe. The future of screen time is here.
+
+
+
 
 
 package com.example.imadexams
